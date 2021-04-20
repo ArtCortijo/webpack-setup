@@ -1,1 +1,5 @@
-console.log('hello');
+const foo = (name) => {
+    console.log(`Hi ${name}`);
+}
+
+foo('Art');
